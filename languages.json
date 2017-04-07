@@ -1,6 +1,4 @@
 [
-    {
-        language: 'de-de',
-        url: 'https://github.com/Leafpub/de-de'
-    }
+    {"name": "de-de", "url": "https://github.com/Leafpub/de-de"},
+    {"name": "pl", "url": "https://github.com/Leafpub/pl"}
 ]
