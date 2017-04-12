@@ -1,4 +1,14 @@
 [
+    {"name": "da-dk", "url": "https://github.com/Leafpub/da-dk"},
     {"name": "de-de", "url": "https://github.com/Leafpub/de-de"},
-    {"name": "pl", "url": "https://github.com/Leafpub/pl"}
+    {"name": "es", "url": "https://github.com/Leafpub/es"},
+    {"name": "fr-fr", "url": "https://github.com/Leafpub/fr-fr"},
+    {"name": "it-it", "url": "https://github.com/Leafpub/it-it"},
+    {"name": "jp-jp", "url": "https://github.com/Leafpub/jp-jp"},
+    {"name": "nb-bo", "url": "https://github.com/Leafpub/nb-bo"},
+    {"name": "nl-nl", "url": "https://github.com/Leafpub/nl-nl"},
+    {"name": "pl", "url": "https://github.com/Leafpub/pl"},
+    {"name": "pt-br", "url": "https://github.com/Leafpub/pt-br"},
+    {"name": "pt-pt", "url": "https://github.com/Leafpub/pt-pt"},
+    {"name": "tr-tr", "url": "https://github.com/Leafpub/tr-tr"}
 ]
