@@ -4,7 +4,7 @@
     {"name": "Español", "code": "es", "url": "https://github.com/Leafpub/es"},
     {"name": "Français (FR)", "code": "fr-fr", "url": "https://github.com/Leafpub/fr-fr"},
     {"name": "Italiano (IT)", "code": "it-it", "url": "https://github.com/Leafpub/it-it"},
-    {"name": "日本語 (JP)", "code": "jp-jp", "url": "https://github.com/Leafpub/jp-jp"},
+    {"name": "日本語 (JP)", "code": "ja-jp", "url": "https://github.com/Leafpub/ja-jp"},
     {"name": "Norwegian Bokmål (NO)", "code": "nb-bo", "url": "https://github.com/Leafpub/nb-bo"},
     {"name": "Nederlands", "code": "nl-nl", "url": "https://github.com/Leafpub/nl-nl"},
     {"name": "Polski", "code": "pl", "url": "https://github.com/Leafpub/pl"},
